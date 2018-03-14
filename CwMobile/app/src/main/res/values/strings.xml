@@ -18,5 +18,11 @@
     <string name="delete">DEL</string>
     <string name="dot">.</string>
     <string name="reset">C</string>
+    <string name="ans">ANS</string>
+    <string name="cos">Cos</string>
+    <string name="sin">Sin</string>
+    <string name="tan">Tan</string>
+    <string name="sqrt">√</string>
+
 
 </resources>
